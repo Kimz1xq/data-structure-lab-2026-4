@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS_BFS", "DFS_BFS\DFS_BFS.vcxproj", "{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Debug|x64.ActiveCfg = Debug|x64
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Debug|x64.Build.0 = Debug|x64
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Debug|x86.Build.0 = Debug|Win32
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Release|x64.ActiveCfg = Release|x64
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Release|x64.Build.0 = Release|x64
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Release|x86.ActiveCfg = Release|Win32
+		{D6A2FF5E-0FFB-4F0D-A37C-7FBF088969BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA00AB1-A490-45B9-8E93-78B2DC1793B5}
+	EndGlobalSection
+EndGlobal
