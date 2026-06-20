@@ -1,20 +1,59 @@
 .vs/
 .vscode/
-x64/
-Debug/
-Release/
 
+# Visual Studio / MSVC
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 *.vcxproj.user
-*.exe
+*.opensdf
+*.sdf
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
 *.pdb
 *.obj
-*.ilk
-*.log
-*.recipe
+*.pch
 *.idb
-*.ipch
-*.suo
-Browse.VC.db*
-Solution.VC.db*
+*.log
+*.tlog
+*.lastbuildstate
+Debug/
+Release/
+x64/
+x86/
+.vsconfig
+
+# C/C++ build outputs
+*.o
+*.out
+*.exe
+*.dll
+*.lib
+*.a
+
+# Qt / qmake / CMake
+build*/
+Makefile
+*.pro.user
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / editor / browser temp
 .DS_Store
 Thumbs.db
+*.tmp
+*.bak
+*.crdownload
