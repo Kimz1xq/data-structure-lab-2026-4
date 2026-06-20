@@ -1,8 +1,6 @@
 #pragma once
 #include <QString>
 #include <vector>
-#include <map>
-#include <utility>
 
 // =============================================
 //  Airport: 공항(노드) 정보 구조체

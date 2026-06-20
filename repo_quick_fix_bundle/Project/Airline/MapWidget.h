@@ -1,8 +1,6 @@
 #pragma once
 #include <QWidget>
 #include <QPushButton>
-#include <QPixmap>
-#include <QPoint>
 #include "AirportGraph.h"
 
 // =============================================

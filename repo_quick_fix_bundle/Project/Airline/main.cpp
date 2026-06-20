@@ -1,5 +1,4 @@
 #include <QApplication>
-#include <QFont>
 #include "MainWindow.h"
 
 int main(int argc, char* argv[]) {
